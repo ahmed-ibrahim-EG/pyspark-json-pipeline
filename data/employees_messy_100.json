@@ -1,0 +1,920 @@
+[
+  {
+    "id": 1,
+    "name": "Omar Abdelaziz",
+    "department": "Finance",
+    "salary": 6166,
+    "joining_date": "2022-03-27",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 2,
+    "name": "Mahmoud Samir",
+    "department": "Data Analytics",
+    "salary": 13046,
+    "joining_date": "2021-04-08",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 3,
+    "name": "Heba Farouk",
+    "department": "Software Development",
+    "salary": 13660,
+    "joining_date": "2020-01-06",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 4,
+    "name": "Mohamed Ali",
+    "department": "Data Engineering",
+    "salary": 7989,
+    "joining_date": "2020-03-04",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 5,
+    "name": "Mohamed Fathy",
+    "department": "Finance",
+    "salary": 15524,
+    "joining_date": "2023-09-27",
+    "status": "Inactive",
+    "location": "Cairo"
+  },
+  {
+    "id": 6,
+    "name": "Mahmoud Khaled",
+    "department": "Finance",
+    "salary": 17583,
+    "joining_date": "2022-03-18",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 7,
+    "name": "  Sarah Ibrahim  ",
+    "department": "Finance",
+    "salary": 6514,
+    "joining_date": "2022-06-04",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 8,
+    "name": "Heba Nasser",
+    "department": null,
+    "salary": 9450,
+    "joining_date": "2023-06-12",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 9,
+    "name": "Mohamed Abdelaziz",
+    "department": "Cyber Security",
+    "salary": 7841,
+    "joining_date": "2020-02-05",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 10,
+    "name": "Yasmine Adel",
+    "department": "Cyber Security",
+    "salary": 12920,
+    "joining_date": "2020-07-01",
+    "status": "Inactive",
+    "location": "Cairo"
+  },
+  {
+    "id": 11,
+    "name": "Mahmoud Samir",
+    "department": null,
+    "salary": 7051,
+    "joining_date": "2021-03-02",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 12,
+    "name": "Mohamed Ragab",
+    "department": "Finance",
+    "salary": 8701,
+    "joining_date": "2023-08-12",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 13,
+    "name": "Salma Khaled",
+    "department": "Cyber Security",
+    "salary": 7901,
+    "joining_date": "2021-02-26",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 14,
+    "name": "  Ahmed Nasser  ",
+    "department": "Finance",
+    "salary": 13943,
+    "joining_date": "2021-06-23",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 15,
+    "name": "Mona Hassan",
+    "department": null,
+    "salary": 13940,
+    "joining_date": "2023-06-15",
+    "status": "Inactive",
+    "location": "Alexandria"
+  },
+  {
+    "id": 16,
+    "name": "Mohamed Nasser",
+    "department": "Finance",
+    "salary": 13054,
+    "joining_date": "2022-02-07",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 17,
+    "name": "Ziad Abdelaziz",
+    "department": "Finance",
+    "salary": -500,
+    "joining_date": "2021-04-20",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 18,
+    "name": "Dina Ahmed",
+    "department": "Software Development",
+    "salary": 7542,
+    "joining_date": "2020-08-13",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 19,
+    "name": "Mahmoud Mahmoud",
+    "department": "Data Analytics",
+    "salary": null,
+    "joining_date": "2020-09-26",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 20,
+    "name": "Mohamed Khaled",
+    "department": "Cyber Security",
+    "salary": 17003,
+    "joining_date": "2022-03-18",
+    "status": "Inactive",
+    "location": "Alexandria"
+  },
+  {
+    "id": 21,
+    "name": "  Mahmoud Hassan  ",
+    "department": "HR",
+    "salary": 13123,
+    "joining_date": "2020-07-22",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 22,
+    "name": "Mohamed Adel",
+    "department": null,
+    "salary": 13777,
+    "joining_date": "2021-12-25",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 23,
+    "name": "Khaled Abdelaziz",
+    "department": "Finance",
+    "salary": 6119,
+    "joining_date": "2023-09-01",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 24,
+    "name": "Mohamed Farouk",
+    "department": "Finance",
+    "salary": 6779,
+    "joining_date": "2022-11-02",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 25,
+    "name": "Dina Ibrahim",
+    "department": "Cyber Security",
+    "salary": 12242,
+    "joining_date": "2022-02-03",
+    "status": "Inactive",
+    "location": "Alexandria"
+  },
+  {
+    "id": 26,
+    "name": "Omar Adel",
+    "department": "Data Analytics",
+    "salary": 15648,
+    "joining_date": "2022-10-12",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 27,
+    "name": "Mahmoud Ibrahim",
+    "department": "Software Development",
+    "salary": 9213,
+    "joining_date": "2020-11-19",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 28,
+    "name": "  Heba Ragab  ",
+    "department": "Data Engineering",
+    "salary": 14047,
+    "joining_date": "2023-11-19",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 29,
+    "name": "Heba Farouk",
+    "department": "HR",
+    "salary": 7858,
+    "joining_date": "2020-10-25",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 30,
+    "name": "Mohamed Ragab",
+    "department": "Software Development",
+    "salary": 13795,
+    "joining_date": "2023-11-08",
+    "status": "Inactive",
+    "location": "Cairo"
+  },
+  {
+    "id": 31,
+    "name": "Karim Ali",
+    "department": "Cyber Security",
+    "salary": 14244,
+    "joining_date": "2022-07-27",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 32,
+    "name": "Dina Ali",
+    "department": null,
+    "salary": 16969,
+    "joining_date": "2023-07-20",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 33,
+    "name": "Karim Nasser",
+    "department": null,
+    "salary": 17933,
+    "joining_date": "2023-01-10",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 34,
+    "name": "Karim Ibrahim",
+    "department": "Cyber Security",
+    "salary": -500,
+    "joining_date": "2023-04-15",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 35,
+    "name": "  Mahmoud Abdelaziz  ",
+    "department": "Data Engineering",
+    "salary": 10536,
+    "joining_date": "2022-12-24",
+    "status": "Inactive",
+    "location": "Cairo"
+  },
+  {
+    "id": 36,
+    "name": "Mohamed Ragab",
+    "department": "HR",
+    "salary": 13968,
+    "joining_date": "2023-12-10",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 37,
+    "name": "Khaled Adel",
+    "department": "Data Analytics",
+    "salary": 7303,
+    "joining_date": "2020-02-05",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 38,
+    "name": "Mohamed Hassan",
+    "department": "Software Development",
+    "salary": null,
+    "joining_date": "2020-04-18",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 39,
+    "name": "Sarah Ragab",
+    "department": null,
+    "salary": 10479,
+    "joining_date": "2020-12-06",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 40,
+    "name": "Karim Ibrahim",
+    "department": "Finance",
+    "salary": 14545,
+    "joining_date": "2022-08-15",
+    "status": "Inactive",
+    "location": null
+  },
+  {
+    "id": 41,
+    "name": "Karim Farouk",
+    "department": "Software Development",
+    "salary": 17112,
+    "joining_date": "2020-03-07",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 42,
+    "name": "  Nouran Mohamed  ",
+    "department": "Data Engineering",
+    "salary": 8186,
+    "joining_date": "2021-05-13",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 43,
+    "name": "Mahmoud Ibrahim",
+    "department": null,
+    "salary": 9846,
+    "joining_date": "2022-07-02",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 44,
+    "name": "Ahmed Ahmed",
+    "department": null,
+    "salary": 7451,
+    "joining_date": "2023-09-12",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 45,
+    "name": "Mahmoud Mohamed",
+    "department": "Cyber Security",
+    "salary": 6978,
+    "joining_date": "2021-05-24",
+    "status": "Inactive",
+    "location": "Mansoura"
+  },
+  {
+    "id": 46,
+    "name": "Islam Ali",
+    "department": "Cyber Security",
+    "salary": 9861,
+    "joining_date": "2020-06-13",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 47,
+    "name": "Ziad Ibrahim",
+    "department": null,
+    "salary": 8446,
+    "joining_date": "2022-01-09",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 48,
+    "name": "Yasmine Khaled",
+    "department": "Software Development",
+    "salary": 10587,
+    "joining_date": "2023-06-15",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 49,
+    "name": "  Mohamed Farouk  ",
+    "department": "Finance",
+    "salary": 8112,
+    "joining_date": "2021-03-21",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 50,
+    "name": "Ahmed Mohamed",
+    "department": "Data Engineering",
+    "salary": 8848,
+    "joining_date": "2021-02-25",
+    "status": "Inactive",
+    "location": "Alexandria"
+  },
+  {
+    "id": 51,
+    "name": "Ahmed Ibrahim",
+    "department": "Data Engineering",
+    "salary": -500,
+    "joining_date": "2023-06-20",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 52,
+    "name": "Salma Ahmed",
+    "department": "Data Analytics",
+    "salary": 12424,
+    "joining_date": "2023-06-25",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 53,
+    "name": "Mohamed Ali",
+    "department": null,
+    "salary": 15905,
+    "joining_date": "2023-03-14",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 54,
+    "name": "Mona Samir",
+    "department": "Finance",
+    "salary": 12456,
+    "joining_date": "2021-01-02",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 55,
+    "name": "Heba Abdelaziz",
+    "department": null,
+    "salary": 7584,
+    "joining_date": "2023-01-09",
+    "status": "Inactive",
+    "location": "Giza"
+  },
+  {
+    "id": 56,
+    "name": "  Dina Abdelaziz  ",
+    "department": "Data Engineering",
+    "salary": 8311,
+    "joining_date": "2020-03-03",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 57,
+    "name": "Dina Farouk",
+    "department": null,
+    "salary": null,
+    "joining_date": "2023-02-21",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 58,
+    "name": "Ahmed Ahmed",
+    "department": "Data Analytics",
+    "salary": 13701,
+    "joining_date": "2022-08-27",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 59,
+    "name": "Yasmine Nasser",
+    "department": "Data Engineering",
+    "salary": 14354,
+    "joining_date": "2022-04-10",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 60,
+    "name": "Ahmed Ahmed",
+    "department": null,
+    "salary": 7864,
+    "joining_date": "2023-11-05",
+    "status": "Inactive",
+    "location": "Alexandria"
+  },
+  {
+    "id": 61,
+    "name": "Karim Mohamed",
+    "department": "Cyber Security",
+    "salary": 7024,
+    "joining_date": "2022-07-10",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 62,
+    "name": "Sarah Ahmed",
+    "department": "Finance",
+    "salary": 11740,
+    "joining_date": "2021-09-28",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 63,
+    "name": "  Mona Abdelaziz  ",
+    "department": "Software Development",
+    "salary": 13998,
+    "joining_date": "2021-12-04",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 64,
+    "name": "Mona Ahmed",
+    "department": "Data Analytics",
+    "salary": 7082,
+    "joining_date": "2020-05-01",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 65,
+    "name": "Sarah Ragab",
+    "department": null,
+    "salary": 15448,
+    "joining_date": "2021-09-23",
+    "status": "Inactive",
+    "location": null
+  },
+  {
+    "id": 66,
+    "name": "Ahmed Samir",
+    "department": null,
+    "salary": 12143,
+    "joining_date": "2020-06-19",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 67,
+    "name": "Heba Farouk",
+    "department": "Finance",
+    "salary": 11453,
+    "joining_date": "2020-12-22",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 68,
+    "name": "Islam Ahmed",
+    "department": "Data Analytics",
+    "salary": -500,
+    "joining_date": "2023-06-21",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 69,
+    "name": "Ziad Samir",
+    "department": "Cyber Security",
+    "salary": 16723,
+    "joining_date": "2021-11-09",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 70,
+    "name": "  Ziad Samir  ",
+    "department": null,
+    "salary": 17735,
+    "joining_date": "2023-01-19",
+    "status": "Inactive",
+    "location": "Giza"
+  },
+  {
+    "id": 71,
+    "name": "Heba Ahmed",
+    "department": "Data Engineering",
+    "salary": 8675,
+    "joining_date": "2022-10-26",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 72,
+    "name": "Yasmine Mahmoud",
+    "department": "Finance",
+    "salary": 16944,
+    "joining_date": "2023-12-04",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 73,
+    "name": "Heba Ibrahim",
+    "department": "Data Engineering",
+    "salary": 11934,
+    "joining_date": "2020-01-08",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 74,
+    "name": "Mohamed Hassan",
+    "department": "Cyber Security",
+    "salary": 14194,
+    "joining_date": "2020-05-18",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 75,
+    "name": "Dina Abdelaziz",
+    "department": null,
+    "salary": 17889,
+    "joining_date": "2023-01-27",
+    "status": "Inactive",
+    "location": null
+  },
+  {
+    "id": 76,
+    "name": "Sarah Abdelaziz",
+    "department": "Software Development",
+    "salary": null,
+    "joining_date": "2021-05-01",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 77,
+    "name": "  Khaled Hassan  ",
+    "department": null,
+    "salary": 15897,
+    "joining_date": "2021-04-15",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 78,
+    "name": "Khaled Ali",
+    "department": "HR",
+    "salary": 8654,
+    "joining_date": "2020-08-09",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 79,
+    "name": "Karim Khaled",
+    "department": "HR",
+    "salary": 7783,
+    "joining_date": "2022-02-04",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 80,
+    "name": "Ziad Fathy",
+    "department": "Data Analytics",
+    "salary": 8780,
+    "joining_date": "2023-06-03",
+    "status": "Inactive",
+    "location": "Cairo"
+  },
+  {
+    "id": 81,
+    "name": "Ziad Ali",
+    "department": "HR",
+    "salary": 6911,
+    "joining_date": "2021-02-19",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 82,
+    "name": "Ziad Khaled",
+    "department": null,
+    "salary": 12289,
+    "joining_date": "2022-10-21",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 83,
+    "name": "Mona Khaled",
+    "department": "HR",
+    "salary": 8297,
+    "joining_date": "2022-02-14",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 84,
+    "name": "  Islam Adel  ",
+    "department": "Software Development",
+    "salary": 13334,
+    "joining_date": "2023-12-05",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 85,
+    "name": "Ziad Ali",
+    "department": "Data Analytics",
+    "salary": -500,
+    "joining_date": "2022-11-24",
+    "status": "Inactive",
+    "location": "Mansoura"
+  },
+  {
+    "id": 86,
+    "name": "Ahmed Khaled",
+    "department": "Data Analytics",
+    "salary": 6977,
+    "joining_date": "2022-07-28",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 87,
+    "name": "Sarah Farouk",
+    "department": "Software Development",
+    "salary": 15150,
+    "joining_date": "2021-04-01",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 88,
+    "name": "Khaled Ahmed",
+    "department": null,
+    "salary": 13555,
+    "joining_date": "2023-03-16",
+    "status": "Active",
+    "location": "Aswan"
+  },
+  {
+    "id": 89,
+    "name": "Nouran Abdelaziz",
+    "department": "Software Development",
+    "salary": 12924,
+    "joining_date": "2021-10-13",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 90,
+    "name": "Mona Ahmed",
+    "department": "Data Analytics",
+    "salary": 7484,
+    "joining_date": "2022-07-13",
+    "status": "Inactive",
+    "location": "Cairo"
+  },
+  {
+    "id": 91,
+    "name": "  Dina Fathy  ",
+    "department": "Data Engineering",
+    "salary": 7130,
+    "joining_date": "2020-09-08",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 92,
+    "name": "Ziad Ragab",
+    "department": "Data Engineering",
+    "salary": 9769,
+    "joining_date": "2022-08-17",
+    "status": "Active",
+    "location": "Mansoura"
+  },
+  {
+    "id": 93,
+    "name": "Omar Mohamed",
+    "department": "Software Development",
+    "salary": 11748,
+    "joining_date": "2020-05-14",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 94,
+    "name": "Ziad Khaled",
+    "department": null,
+    "salary": 9738,
+    "joining_date": "2022-08-11",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 95,
+    "name": "Dina Ibrahim",
+    "department": "Data Analytics",
+    "salary": null,
+    "joining_date": "2022-06-11",
+    "status": "Inactive",
+    "location": "Giza"
+  },
+  {
+    "id": 96,
+    "name": "Dina Ibrahim",
+    "department": "Software Development",
+    "salary": 9737,
+    "joining_date": "2021-06-11",
+    "status": "Active",
+    "location": "Giza"
+  },
+  {
+    "id": 97,
+    "name": "Islam Ali",
+    "department": "Data Engineering",
+    "salary": 7703,
+    "joining_date": "2022-06-15",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 98,
+    "name": "  Khaled Samir  ",
+    "department": "Software Development",
+    "salary": 6577,
+    "joining_date": "2021-04-02",
+    "status": "Active",
+    "location": "Cairo"
+  },
+  {
+    "id": 99,
+    "name": "Mahmoud Samir",
+    "department": null,
+    "salary": 11529,
+    "joining_date": "2022-10-13",
+    "status": "Active",
+    "location": null
+  },
+  {
+    "id": 100,
+    "name": "Ziad Mohamed",
+    "department": "HR",
+    "salary": 17169,
+    "joining_date": "2022-04-17",
+    "status": "Inactive",
+    "location": "Aswan"
+  },
+  {
+    "id": 6,
+    "name": "Mahmoud Khaled",
+    "department": "Finance",
+    "salary": 17583,
+    "joining_date": "2022-03-18",
+    "status": "Active",
+    "location": "Alexandria"
+  },
+  {
+    "id": 13,
+    "name": "Salma Khaled",
+    "department": "Cyber Security",
+    "salary": 7901,
+    "joining_date": "2021-02-26",
+    "status": "Active",
+    "location": null
+  }
+]
